@@ -13,10 +13,8 @@
 9. [Дополнительно. Свой node_exporter](#part-9-дополнительно-свой-node_exporter)
 
 
-
+Отчеты по некоторым частям проекта находятся в папках с заданием
 ## Chapter I. Стек проекта
-
-![linux_monitoringv2.0](misc/images/linux_monitoringv2.0.png)
 
 ### **GoAccess**
 
